@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshayamaujey
-- 👀 I’m interested in Artificial intelligence and deep learning
-- 🌱 I’m currently learning Artificial intelligence
-- 💞️ I’m looking to collaborate on  with Ai ...
+- 👀 I’m interested in Data Analyst Role
+- 🌱 I recently completed my BTech in Artificial Intelliegence and Data Science
+- 💞️ I’m looking to collaborate on  with Data Analyst , Data Engineers and Data Scientist
 - 📫 How to reach me  akshayamaujey@gmail.com...
 
 <!---
