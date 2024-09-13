@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshayamaujey
-- 👀 I’m interested in Data Analyst Role
+- 👀 I’m interested in  any Artificial Intelligence  and Data Science Role
 - 🌱 I recently completed my BTech in Artificial Intelliegence and Data Science
 - 💞️ I’m looking to collaborate on  with Data Analyst , Data Engineers and Data Scientist
 - 📫 How to reach me  akshayamaujey@gmail.com...
